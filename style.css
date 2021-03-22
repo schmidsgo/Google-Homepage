@@ -101,7 +101,7 @@ header a {
     border: none;
     width: 10em;
     min-width: 200px;
-    font-size: 20px;
+    font-size: 20px; 
     flex: 1 1 auto;
 }
 
